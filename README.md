@@ -3,6 +3,8 @@ Solving the dining philosophers problem in Java
 
 Terminal
 
-javac DiningPhilosophers
+javac DiningPhilosophers //run
 
-java DiningPhilosophers
+java DiningPhilosophers //compile
+
+rm *.class //remove
