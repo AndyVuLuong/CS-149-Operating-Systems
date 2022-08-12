@@ -1,5 +1,5 @@
 # DiningPhilosophersProblem
-Solving the dining philosophers problem in Java
+CS 149 - Operating Systems
 
 Terminal
 
